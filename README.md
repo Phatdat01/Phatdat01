@@ -15,5 +15,5 @@
 ![Static Badge](https://img.shields.io/badge/odoo-red?logo=odoo)
 
 - 📫 How to reach me:
-![Static Badge](https://img.shields.io/badge/gmail-white?logo=gmail&link=mailto%3Aphatdatlht2001%40gmail.com)
-![Static Badge](https://img.shields.io/badge/youtube-red?logo=youtube&link=https%3A%2F%2Fwww.youtube.com%2F%40tpd4137)
+<a href="mailto:phatdatlht2001@gmail.com">![Static Badge](https://img.shields.io/badge/gmail-white?logo=gmail)</a>
+<a href="https://www.youtube.com/@tpd4137">![Static Badge](https://img.shields.io/badge/youtube-red?logo=youtube)</a>
